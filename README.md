@@ -17,7 +17,7 @@ const alexkah0 = {
     "Web Development",
     "SAP Solutions"
   ],
-  📫 contact: "your.email@example.com", // Add your actual contact info
+  📫 contact: alejandroprst@gmail.com, // Add your actual contact info
   😄 pronouns: "Not specified",
   ⚡ funFact: "I come from a creative background in graphic design and marketing, 
   but I have a strong passion for tech, development, programming, and online business. 
