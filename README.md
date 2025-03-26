@@ -17,7 +17,7 @@ const alexkah0 = {
     "Web Development",
     "SAP Solutions"
   ],
-  📫 contact: alejandroprst@gmail.com, // Add your actual contact info
+  📫 contact: alejandroprst@gmail.com, // www.linkedin.com/in/alexkah-growth
   😄 pronouns: "Not specified",
   ⚡ funFact: "I come from a creative background in graphic design and marketing, 
   but I have a strong passion for tech, development, programming, and online business. 
